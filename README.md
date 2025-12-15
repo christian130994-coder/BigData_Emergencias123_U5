@@ -46,6 +46,5 @@ Se adjunta captura de pantalla donde se evidencia la ejecución del pipeline y l
 de procesamiento obtenidos.
 
 ## Evidencia de ejecución
-
-![Pipeline ejecutado]
+![Ejecución del pipeline U5](evidencia_pipeline_u5.png)
 
